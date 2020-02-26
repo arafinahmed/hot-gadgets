@@ -1,0 +1,49 @@
+.card img{    
+    padding: 20px 30px;
+}
+.card{
+    text-align: center;
+    border: none;
+    box-shadow: 10px 10px 10px  10px rgb(226, 220, 220);
+}
+.container{
+    margin-bottom: 50px;
+}
+.container h6{
+    color: orange;
+}
+.container h5{
+    margin-bottom: 15px;
+}
+.catbox{
+    height: 8px;
+    width: 100px;
+    background-image: linear-gradient(to right, rgb(219, 215, 207) 0%, orange 100%);
+    border-radius: 5px;  
+    
+}
+.sub-padding{
+    padding-bottom: 20px;
+}
+
+.make-b{
+    
+    text-align: center;
+    
+    box-shadow: 10px 10px 10px  10px rgb(226, 220, 220);
+    margin-bottom: 20px;
+    
+}
+.make-b img{
+    padding: 10px 60px;
+}
+.make-b{
+   
+}
+#special{
+    margin-top: 100px;
+    padding-bottom: 7px;
+}
+.catcat{
+    margin-bottom: 20px;
+}
